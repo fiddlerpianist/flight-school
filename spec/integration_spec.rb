@@ -1,5 +1,6 @@
 require "json"
 require "rack/test"
+lets throw a compilation error in here, hopefully
 
 ENV['RACK_ENV'] = 'test'
 
